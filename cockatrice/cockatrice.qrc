@@ -16,19 +16,20 @@
         <file>resources/icons/conceded.svg</file>
         <file>resources/icons/decrement.svg</file>
         <file>resources/icons/delete.svg</file>
-        <file>resources/icons/forgot-pw.svg</file>
         <file>resources/icons/increment.svg</file>
         <file>resources/icons/lock.svg</file>
         <file>resources/icons/not_ready_start.svg</file>
         <file>resources/icons/pencil.svg</file>
         <file>resources/icons/player.svg</file>
         <file>resources/icons/ready_start.svg</file>
+        <file>resources/icons/refresh.svg</file>
         <file>resources/icons/remove_row.svg</file>
         <file>resources/icons/search.svg</file>
         <file>resources/icons/settings.svg</file>
         <file>resources/icons/spectator.svg</file>
         <file>resources/icons/tab_changed.svg</file>
         <file>resources/icons/update.png</file>
+        <file>resources/icons/unlock.svg</file>
         <file>resources/icons/view.svg</file>
 
         <file>resources/config/general.svg</file>
